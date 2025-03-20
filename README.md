@@ -43,3 +43,17 @@ GIMP adalah perangkat lunak pengolah gambar gratis dan open-source yang dapat di
 1. Gunakan **Fuzzy Select Tool (U)** atau **Paths Tool (B)** untuk menyeleksi background.
 2. Hapus dengan `Delete` atau gunakan Layer Mask untuk penghapusan non-destruktif.
 
+## 5. Efek dan Filter
+- **Blur:** `Filters > Blur > Gaussian Blur` untuk efek blur lembut.
+- **Sharpen:** `Filters > Enhance > Sharpen` untuk meningkatkan ketajaman.
+- **Color Correction:** `Colors > Levels` atau `Colors > Curves`.
+
+## 6. Export dan Format Gambar
+- **PNG:** Untuk gambar transparan atau kualitas tinggi.
+- **JPEG:** Untuk gambar dengan ukuran file lebih kecil.
+- **GIF:** Untuk animasi sederhana.
+- **XCF:** Format asli GIMP yang menyimpan semua layer dan pengaturan.
+
+## 7. Sumber Belajar Tambahan
+- Dokumentasi Resmi: [https://docs.gimp.org](https://docs.gimp.org)
+- Forum dan Tutorial: [https://www.gimpusers.com](https://www.gimpusers.com)
