@@ -29,3 +29,17 @@ GIMP adalah perangkat lunak pengolah gambar gratis dan open-source yang dapat di
 - **Eraser Tool (Shift+E):** Menghapus bagian gambar.
 - **Text Tool (T):** Menambahkan teks ke gambar.
 
+## 4. Teknik Dasar Editing
+### 4.1 Menggunakan Layer
+- **Menambahkan Layer:** `Layer > New Layer...`
+- **Mengubah Opacity:** Gunakan slider opacity pada panel layer.
+- **Menggabungkan Layer:** `Layer > Merge Down`
+
+### 4.2 Menggunakan Masking
+- Tambahkan masking dengan klik kanan pada layer dan pilih `Add Layer Mask`.
+- Gunakan kuas hitam untuk menyembunyikan dan putih untuk menampilkan.
+
+### 4.3 Menghapus Background
+1. Gunakan **Fuzzy Select Tool (U)** atau **Paths Tool (B)** untuk menyeleksi background.
+2. Hapus dengan `Delete` atau gunakan Layer Mask untuk penghapusan non-destruktif.
+
