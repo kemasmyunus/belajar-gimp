@@ -11,3 +11,21 @@ GIMP adalah perangkat lunak pengolah gambar gratis dan open-source yang dapat di
    ```
 3. **macOS:** Unduh versi terbaru dari situs resmi GIMP.
 
+## 2. Antarmuka GIMP
+- **Toolbox:** Berisi alat-alat untuk menggambar, seleksi, dan manipulasi gambar.
+- **Image Window:** Area kerja utama tempat gambar ditampilkan.
+- **Layers, Channels, Paths:** Panel untuk mengelola layer dan elemen gambar lainnya.
+- **Brushes, Patterns, Gradients:** Berisi berbagai efek dan tekstur untuk desain.
+
+## 3. Dasar-Dasar Penggunaan
+### 3.1 Membuka dan Menyimpan Gambar
+- **Membuka gambar:** `File > Open...`
+- **Menyimpan gambar:** `File > Export As...` untuk format selain XCF (format asli GIMP)
+
+### 3.2 Alat Dasar
+- **Move Tool (M):** Memindahkan objek atau layer.
+- **Selection Tools (R, E, F):** Untuk memilih bagian tertentu dari gambar.
+- **Brush Tool (P):** Menggambar dengan berbagai jenis kuas.
+- **Eraser Tool (Shift+E):** Menghapus bagian gambar.
+- **Text Tool (T):** Menambahkan teks ke gambar.
+
